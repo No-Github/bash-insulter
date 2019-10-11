@@ -4,7 +4,16 @@ print_message () {
     local message
 
     messages=(
-        "Boooo!"
+        "FBI WARNING"
+        "Cocksucker"
+        "Cyka blyat"
+        "Where did you come from? the local prison?"
+        "Try me, soft."
+        "你怕不是个铁憨憨"
+		"一给窝里giao!!!!!!giaoooooooooooo!!!!!!"
+		"giaoooooooooooo!!!!!!"
+		"自毁程序启动,倒数5分钟"
+		"Boooo!"
         "Don't you know anything?"
         "RTFM!"
         "Haha, n00b!"
