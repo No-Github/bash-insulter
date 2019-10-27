@@ -4,6 +4,9 @@ print_message () {
     local message
 
     messages=(
+        "HELP!Lifesaver!"
+        "baba adamsın :)))"
+        "You a godsend!"
         "FBI WARNING"
         "Cocksucker"
         "Cyka blyat"
