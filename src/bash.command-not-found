@@ -4,6 +4,7 @@ print_message () {
     local message
 
     messages=(
+        "What pathetic command..."
         "HELP!Lifesaver!"
         "baba adamsın :)))"
         "You a godsend!"
